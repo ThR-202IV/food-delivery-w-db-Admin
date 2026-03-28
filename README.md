@@ -1,6 +1,6 @@
 ## Project Overview: Food Kraft., a Food Ordering System
 
-This repository serves as the core engine for Food Kraft., a modern Fashion E-commerce ecosystem. To ensure a clean separation of concerns, the project is divided into three specialized modules:
+This repository serves as the core engine for Food Kraft., a Food Delivery & Management System. To ensure a clean separation of concerns, the project is divided into three specialized modules:
 
 - **Client Side** **-** A dynamic React.js interface styled with Tailwind CSS, featuring category-based menu filtering and an interactive shopping cart with real-time price calculations, and a secure checkout flow integrated with Stripe.
 

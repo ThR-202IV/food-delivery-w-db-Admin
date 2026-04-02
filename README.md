@@ -12,7 +12,7 @@ A protected internal dashboard with role-based access control that allows admini
 
 ## Central Documentation
 The Business Requirements Document (BRD) is maintained in the Server-Side repository to ensure a single source of truth.
-  - [Business Requirements Document](<https://github.com/ThR-202IV/food-delivery-w-db-BE/blob/master/docs/BRD%20-%20Food%20Kraft.%20Food%20Ordering%20System.md>)
+  - [Business Requirements Document](<https://github.com/ThR-202IV/food-delivery-w-db-BE/blob/master/docs/BRD%20-%20Food%20Kraft.,%20a%20Food%20Ordering%20&%20Management%20System.md>)
 
 Related Repositories
   - Client Side: [View Client Repository](https://github.com/ThR-202IV/food-delivery-w-db-FE)
